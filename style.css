@@ -1,0 +1,18 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.download-cracker {
+    width: 169px;
+    height: 35px;
+    font-size: large;
+    border-radius: 14px;
+    border: none;
+    cursor: pointer;
+    background-color: cadetblue;
+    color: white;
+    transition-duration: 1s;
+}
+.download:hover {
+    width: 241px;
+    letter-spacing: 8px;
+}
